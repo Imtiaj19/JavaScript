@@ -1,5 +1,7 @@
 let mysym = Symbol("key set")
 // console.log(mysym);
+// Singleton Obj 
+let obj = new Object()
 // Object Literal..
 let myobj = {
     name : "Imtiaj Uddin",
