@@ -1,6 +1,6 @@
 let mysym = Symbol("key set")
 // console.log(mysym);
-
+// Object Literal..
 let myobj = {
     name : "Imtiaj Uddin",
     age : 24,
